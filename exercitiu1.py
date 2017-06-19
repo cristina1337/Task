@@ -1,1 +1,1 @@
-print(" acesta este un text")
+print(" dam pull la asta")
